@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\bin\Debug\ocjenskaVjezba1.PolugodistePetlje01.exe.config
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\bin\Debug\ocjenskaVjezba1.PolugodistePetlje01.exe
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\bin\Debug\ocjenskaVjezba1.PolugodistePetlje01.pdb
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\obj\Debug\ocjenskaVjezba1.PolugodistePetlje01.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\obj\Debug\ocjenskaVjezba1.PolugodistePetlje01.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\obj\Debug\ocjenskaVjezba1.PolugodistePetlje01.exe
+C:\Users\Gigabyte\source\repos\ocjenskaVjezba1.PolugodistePetlje01\ocjenskaVjezba1.PolugodistePetlje01\obj\Debug\ocjenskaVjezba1.PolugodistePetlje01.pdb
